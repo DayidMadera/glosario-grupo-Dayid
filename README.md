@@ -27,7 +27,24 @@ Es mas rapido que un disco duro tradicional (HDD).
 *(Esta seccion sera completada por  Juan)*
 ---
 ## Terminos Generales de Programacion
-*(Esta seccion sera completada por Dayid)*
+
+### Algoritmo
+
+Un algoritmo es un conjunto de pasos ordenados que se utilizan para resolver un problema o realizar una tarea.
+
+### Variable
+
+Una variable es un espacio en memoria donde se almacena un valor que puede cambiar durante la ejecución del programa.
+
+Ejemplo:
+edad = 20
+
+### Constante
+
+Una constante es un valor que no cambia durante la ejecución del programa.
+
+Ejemplo:
+PI = 3.1416
 ---
 *Ultima actualizacion: [5/03/2026]*
 
