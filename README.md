@@ -8,12 +8,13 @@
 - Estudiante 3: [Juan]
 ---
 ## Terminos de Hardware
-*(Esta seccion sera completada por el David)*
+*(Esta seccion sera completada por David)*
 ---
 ## Terminos de Software
-*(Esta seccion sera completada por el Juan)*
+*(Esta seccion sera completada por  Juan)*
 ---
 ## Terminos Generales de Programacion
-*(Esta seccion sera completada por el Dayid)*
+*(Esta seccion sera completada por Dayid)*
 ---
 *Ultima actualizacion: [5/03/2026]*
+
