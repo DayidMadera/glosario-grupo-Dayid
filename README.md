@@ -24,6 +24,7 @@ Es donde se guarda la informacion de forma permanente.
 Es mas rapido que un disco duro tradicional (HDD).
 ---
 ## Terminos de Software
+
 ##  Software
 
 ## 'Software de Sistema': Es la base que permite el funcionamiento del hardware y gestiona recursos.
@@ -34,8 +35,8 @@ BIOS/Firmware: Programa inicial de arranque.
 
 ## 'Software de Aplicación': Programas diseñados para que el usuario final realice tareas.
 Aplicaciones de ofimática (Office), navegadores web, reproductores multimedia, redes sociales.
-
 ---
+
 ## Terminos Generales de Programacion
 
 ### Algoritmo
@@ -56,4 +57,4 @@ Una constante es un valor que no cambia durante la ejecución del programa.
 Ejemplo:
 PI = 3.1416
 ---
-Ultima actualizacion: [5/03/2026]
+Ultima actualizacion: [6/03/2026]
