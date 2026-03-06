@@ -4,8 +4,8 @@
 ---
 ## Integrantes del grupo
 - Estudiante 1 (Lider): [Dayid]
-- Estudiante 2: [David]
-- Estudiante 3: [Juan]
+- Estudiante 2: [Juan]
+- Estudiante 3: [David]
 ---
 ## Terminos de Hardware
 ### `CPU` — Unidad Central de Procesamiento
@@ -24,7 +24,7 @@ Es donde se guarda la informacion de forma permanente.
 Es mas rapido que un disco duro tradicional (HDD).
 ---
 ## Terminos de Software
-*(Esta seccion sera completada por  Juan)*
+*(Esta seccion sera completada por  David)*
 ---
 ## Terminos Generales de Programacion
 
